@@ -1,0 +1,5 @@
+{
+  "name": "ChargeGuard",
+  "description": "A smart battery monitoring web application designed to prolong battery health. It alerts you when your device reaches a specific charge level (default 80%) and automatically stops the alarm when you unplug the charger. Includes Wake Lock to keep monitoring active without screen sleep.",
+  "requestFramePermissions": []
+}
